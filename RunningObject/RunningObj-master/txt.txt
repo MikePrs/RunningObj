@@ -1,0 +1,15 @@
+circle
+1600
+50
+square
+1000
+5
+square2
+2000
+5
+square3
+2700
+5
+finalLine
+3300
+5
